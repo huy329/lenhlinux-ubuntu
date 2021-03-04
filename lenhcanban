@@ -1,0 +1,27 @@
+ls: liet ke thu muc hien hanh
+
+mkdir: lenh tao thu muc
+
+pwd: in ra duong dan thu muc hien hanh
+
+cd: di vao thu muc
+
+rmdir: xoa thu muc
+
+rm: xoa file
+
+cp: coppy
+
+mv: di chuyen
+
+cat: doc file
+
+tar -cvf: nen 
+
+tar -tvf: xem noi dung  
+
+tar -xvf: giai nen
+
+ps: hien thi tien trinh dang chay
+
+top: hien thi tien trinh dang chay theo hieu suat cpu
