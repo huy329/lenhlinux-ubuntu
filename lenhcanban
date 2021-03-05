@@ -25,3 +25,5 @@ tar -xvf: giai nen
 ps: hien thi tien trinh dang chay
 
 top: hien thi tien trinh dang chay theo hieu suat cpu
+
+wget: tai ve mot tap tin
