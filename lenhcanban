@@ -6,6 +6,10 @@ pwd: in ra duong dan thu muc hien hanh
 
 cd: di vao thu muc
 
+cd ..: di ra thu muc cha
+
+cd ~: di ra thu muc goc
+
 rmdir: xoa thu muc
 
 rm: xoa file
@@ -27,3 +31,9 @@ ps: hien thi tien trinh dang chay
 top: hien thi tien trinh dang chay theo hieu suat cpu
 
 wget: tai ve mot tap tin
+
+gedit: viet notepad
+
+less: xem tap tin text
+
+clear: xoa man hinh lam viec
